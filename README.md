@@ -1,5 +1,5 @@
 
-I'm currently on exchange at the University of York studying research methods, game design, and the mind. 
+I'm currently on exchange at the University of York studying computer science research methods, game design, and the mind. 
 [Click here to send me an email.](mailto:spd@uvic.ca)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stelladrinkwater?cardType=level-alternate&theme=default&preferLogin=true)](https://git.io/awesome-stats-card)<br/> 
